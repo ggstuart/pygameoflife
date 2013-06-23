@@ -12,7 +12,7 @@ def readme():
 
 setup(
     name='pygameoflife',
-    version='0.1.0',
+    version='0.1.1',
     description="An agent-based implementation of Conway's Game of Life",
     long_description=readme(),
     keywords='agent based Conway game of life',
